@@ -1,0 +1,15 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","10u","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",136.753600,-140.381900,-90.000000,top
+"C2","10u","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",126.965000,-142.040000,-90.000000,top
+"C3","22uF/16V","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",124.100000,-114.384800,90.000000,top
+"C4","0.1uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",126.450000,-114.372300,90.000000,top
+"J1","stm32g0_5v_bank","PinHeader_1x10_P2.54mm_Vertical",168.300000,-134.420000,180.000000,top
+"J2","stm32g0_3v3_bank","PinHeader_1x10_P2.54mm_Vertical",153.060000,-134.420000,180.000000,top
+"J3","GT-U7","PinHeader_1x05_P2.54mm_Vertical",103.568000,-134.136800,90.000000,top
+"J4","SSD1306_I2C","PinSocket_1x04_P2.54mm_Vertical",104.760000,-142.150000,90.000000,top
+"J5","Debug","PinHeader_1x02_P2.54mm_Vertical",146.405600,-144.678400,180.000000,top
+"J6","PowerSocket","PinHeader_1x02_P2.54mm_Vertical",141.122400,-142.184200,0.000000,top
+"SW1","BTN1","SW_PUSH_6mm",152.200000,-141.350000,0.000000,top
+"SW2","BTN2","SW_PUSH_6mm",162.250000,-141.350000,0.000000,top
+"U1","Ai-Thinker-Ra-02","Ai-Thinker-Ra-01-LoRa",137.450000,-118.350000,0.000000,top
+"U2","HT7333","SOT-89-3_Handsoldering",132.115000,-144.190000,-90.000000,top
