@@ -4,5 +4,5 @@ GPS position transmitter using LoRa. Based on STM32G031 controller with HAL and 
 ## Testing
 In current development stage it is still testing rig.
 I have included SSD1306 Oled for debugging in the field.
-Included PCB design made in KiCAD.
+Included PCB design made in KiCAD. <br />
 <img src="res/pcb.png" />
